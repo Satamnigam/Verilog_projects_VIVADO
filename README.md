@@ -1,2 +1,2 @@
 # verilog_projects
-All Projects beginner level to Advance level implemented on FPGA using Xilinx VIVADO 
+All Projects beginner to Advance level implemented on FPGA using Xilinx VIVADO 
